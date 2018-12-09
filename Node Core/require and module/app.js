@@ -1,11 +1,11 @@
 const sum = require('./utility.js')
 require('./account-service.js')
 
-let checkingAccountBalance = 200
-let savingsAccountBalance = 1000
-let retirementAccountBalance = 20000
+let checkingBalance = 300
+let savingsBalance = 5000
+let retirementBalance = 70000
 
-retirementAccountBalance = 40000
+retirementAccountBalance = 270000
 
-let totalBalance=sum([checkingAccountBalance, savingsAccountBalance, retirementAccountBalance] )
+let totalBalance=sum([checkingBalance, savingsBalance, retirementBalance] )
 console.log(totalBalance)

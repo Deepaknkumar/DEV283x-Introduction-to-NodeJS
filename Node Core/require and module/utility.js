@@ -5,4 +5,5 @@ module.exports = function(numbersToAdd){
     for(i=0; i<numbersToAdd.length;i++ ){
         sum += numbersToAdd[i];
     }
+    return sum
 }
