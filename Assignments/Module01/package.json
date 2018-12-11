@@ -1,0 +1,12 @@
+{
+  "name": "Module01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert-csv-to-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

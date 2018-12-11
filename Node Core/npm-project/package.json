@@ -9,6 +9,7 @@
   "author": "Deepak",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mocha": "^5.2.0"
   }
 }
